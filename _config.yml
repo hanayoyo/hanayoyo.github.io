@@ -1,9 +1,8 @@
 # Setup
 title:               Hana's Portfolio Site
-tagline:             
+tagline:              Hana's Portfolio Site
 description:         My portfolio site for artistic projects
 url:                 http://hanayoyo.github.io
-baseurl:             ..
 paginate:            5
 permalink:           pretty
 
