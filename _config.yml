@@ -1,4 +1,4 @@
-c# Setup
+# Setup
 title:               Hana
 tagline:             'My portfolio site for artistic projects'
 description:         
@@ -18,5 +18,7 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+
+
+#Github
+repo: hanayoyo.github.io
